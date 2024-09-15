@@ -1,0 +1,11 @@
+svg {
+    border: 1px solid #ccc;
+}
+
+span {
+    font-size: 10px !important;
+}
+
+.error-empty {
+    border: 2px solid red !important;
+}
